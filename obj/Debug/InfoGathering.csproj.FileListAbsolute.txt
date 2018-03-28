@@ -1,0 +1,7 @@
+D:\C#\Ex_Files_CSharp_IG\Ex_Files_CSharp_IG\Exercise Files\FinishedExamples\Ch03\03_06\GenChallengeSolution\bin\Debug\InfoGathering.exe.config
+D:\GitHub\InfoGathering\bin\Debug\InfoGathering.exe.config
+D:\GitHub\InfoGathering\bin\Debug\InfoGathering.exe
+D:\GitHub\InfoGathering\bin\Debug\InfoGathering.pdb
+D:\GitHub\InfoGathering\obj\Debug\InfoGathering.csprojResolveAssemblyReference.cache
+D:\GitHub\InfoGathering\obj\Debug\InfoGathering.exe
+D:\GitHub\InfoGathering\obj\Debug\InfoGathering.pdb

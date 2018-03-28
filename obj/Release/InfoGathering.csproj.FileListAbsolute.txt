@@ -1,0 +1,6 @@
+D:\C#\Ex_Files_CSharp_IG\Ex_Files_CSharp_IG\Exercise Files\FinishedExamples\Ch03\03_06\GenChallengeSolution\bin\Release\InfoGathering.exe.config
+D:\C#\Ex_Files_CSharp_IG\Ex_Files_CSharp_IG\Exercise Files\FinishedExamples\Ch03\03_06\GenChallengeSolution\bin\Release\InfoGathering.exe
+D:\C#\Ex_Files_CSharp_IG\Ex_Files_CSharp_IG\Exercise Files\FinishedExamples\Ch03\03_06\GenChallengeSolution\bin\Release\InfoGathering.pdb
+D:\C#\Ex_Files_CSharp_IG\Ex_Files_CSharp_IG\Exercise Files\FinishedExamples\Ch03\03_06\GenChallengeSolution\obj\Release\InfoGathering.csprojResolveAssemblyReference.cache
+D:\C#\Ex_Files_CSharp_IG\Ex_Files_CSharp_IG\Exercise Files\FinishedExamples\Ch03\03_06\GenChallengeSolution\obj\Release\InfoGathering.exe
+D:\C#\Ex_Files_CSharp_IG\Ex_Files_CSharp_IG\Exercise Files\FinishedExamples\Ch03\03_06\GenChallengeSolution\obj\Release\InfoGathering.pdb
