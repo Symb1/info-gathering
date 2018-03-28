@@ -1,2 +1,3 @@
-# info-gathering
+info-gathering
+
 Gathers info
